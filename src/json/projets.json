@@ -1,0 +1,15 @@
+{
+    "titre": "Projet de Conception",
+    "description": "Une brève description du projet ici.",
+    "imagePrincipale": "../img/projets/1_Projet_chopine.webp",
+    "galerie": [
+        "../img/projets/1_Projet_chopine.webp",
+        "../img/projets/1_Projet_chopine.webp",
+        "../img/projets/1_Projet_chopine.webp"
+    ],
+    "textes": [
+        "Premier détail du projet.",
+        "Second détail du projet.",
+        "Troisième détail du projet."
+    ]
+}
